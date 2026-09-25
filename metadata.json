@@ -1,0 +1,6 @@
+{
+  "name": "CASUAL 29 Men's Wear - Mascara Boutique & OS Gérant",
+  "description": "Boutique en ligne et système de gestion pour le magasin de vêtements pour hommes CASUAL (Mascara, Algérie). Style Old Money, vestes cuir, pantalons classiques, jeans et sneakers avec commande WhatsApp et livraison 58 wilayas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
